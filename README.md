@@ -28,3 +28,4 @@ The system consists of two main components:
 - The implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
 ## UML Class Diagram
+![Blank diagram(8)](https://github.com/user-attachments/assets/7dc1ed00-f812-4779-80de-86454d802fa8)
